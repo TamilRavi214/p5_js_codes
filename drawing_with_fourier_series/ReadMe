@@ -1,0 +1,5 @@
+Fourier Series Drawing:
+      1. fourier_sine_wave.js
+           Create a p5 project in the p5 editor and copy this code in the sketch.js  and it will create a .gif of sine wave which is showed in the wiki fourier series explanation.
+      2. fourier_sawtooth_wave.js
+           Create a p5 project in the p5 editor and copy this code in the sketch.js  and it will create a .gif of sawtooth wave which is showed in the wiki fourier series explanation.

@@ -1,0 +1,3 @@
+Drawing Machine with DFT:
+   drawing_machine.js
+       Create a p5 project in the p5 editor and copy this code in the sketch.js  and it will draw a object which will recreate the same drawing using the DFT algorithm.
