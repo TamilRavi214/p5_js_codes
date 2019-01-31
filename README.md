@@ -1,2 +1,1 @@
-     This the repository of p5 javascripts codes    
-  
+Repository for p5.js codes  
