@@ -1,0 +1,2 @@
+1. flicker_clock.js
+    Create a p5 project in the p5 editor and copy this code in the sketch.js  and it will create a clock which will flicker for each second and show the current computer time.
