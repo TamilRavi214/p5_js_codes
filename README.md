@@ -9,4 +9,7 @@
       </ol>
   </li>
   <li><a href="https://github.com/TamilRavi214/p5_js_codes/tree/master/flicker_clock">Clock in p5.js</a></li>
+  <li><a href="https://github.com/TamilRavi214/p5_js_codes/tree/master/purple_rain">Purple Rain</a></li>
+  <li><a href="https://github.com/TamilRavi214/p5_js_codes/tree/master/snake_game">The Snake Game</a></li>
+  <li><a href="https://github.com/TamilRavi214/p5_js_codes/tree/master/starfield">Starfield Simulation</a></li>
   </ol>
